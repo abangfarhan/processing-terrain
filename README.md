@@ -9,4 +9,7 @@ blue means low. It's also interactive, as you can use these keys:
 - w/s speed up or slow down the flying speed
 - spacebar: pause the flying
 
-See [this video](https://youtu.be/2N-t3u2dtXs) for the demo.
+See [this video](https://youtu.be/2N-t3u2dtXs) for the demo. Below is
+a screenshow of a frame:
+
+![Screenshot](screenshot.png)
